@@ -13,7 +13,7 @@
 
 ## `$ whoami`
 
-I'm a Computer Science Engineering student who builds products at the intersection of clean interfaces and intelligent systems. I like taking a complicated idea and cutting it down until it's simple enough to actually use — then making that simple version feel good to look at.
+<h1 font-color:red>*</h1>I'm a Computer Science Engineering student who builds products at the intersection of clean interfaces and intelligent systems. I like taking a complicated idea and cutting it down until it's simple enough to actually use — then making that simple version feel good to look at.
 
 Most of what I build lives somewhere between frontend engineering and UI/UX design, with a growing pull toward AI-powered tools that make learning and building easier for other people.
 
