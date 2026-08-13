@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23001A0D?style=for-the-badge&logo=linkedin&logoColor=7CFF4F&color=001A0D)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
-<br/>
-
 ## `$ whoami`
 
 <h1 font-color:red>*</h1>I'm a Computer Science Engineering student who builds products at the intersection of clean interfaces and intelligent systems. I like taking a complicated idea and cutting it down until it's simple enough to actually use — then making that simple version feel good to look at.
