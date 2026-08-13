@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A0D,45:006B3C,100:7CFF4F&height=180&section=header&text=NIDHIN%20M%20M&fontSize=64&fontColor=E8FFE3&animation=fadeIn&fontAlignY=30&desc=FRONTEND%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER%20%7C%20AI%20ENTHUSIAST&descAlignY=50&descSize=14&descAlign=50&stroke=7CFF4F&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A0D,45:006B3C,100:7CFF4F&height=160&section=header&text=NIDHIN%20M%20M&fontSize=64&fontColor=E8FFE3&animation=fadeIn&fontAlignY=30&desc=FRONTEND%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER%20%7C%20AI%20ENTHUSIAST&descAlignY=50&descSize=14&descAlign=50&stroke=7CFF4F&strokeWidth=1" width="100%"/>
 </div>
 <div align="center">
   
@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23001A0D?style=for-the-badge&logo=linkedin&logoColor=7CFF4F&color=001A0D)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
+
 ## `$ whoami`
 
 <h1 font-color:red>*</h1>I'm a Computer Science Engineering student who builds products at the intersection of clean interfaces and intelligent systems. I like taking a complicated idea and cutting it down until it's simple enough to actually use — then making that simple version feel good to look at.
