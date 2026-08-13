@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Navaneeth%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A0D,45:006B3C,100:7CFF4F&height=230&section=header&text=NIDHIN%20M%20M&fontSize=52&fontColor=E8FFE3&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=17&descAlign=50&stroke=7CFF4F&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6A11CB&center=true&vCenter=true&width=600&lines=Final+Year+CS+Student+%40+Model+Engineering+College;Building+with+AI;Full+Stack+Developer+%7C+React+%2F+Node+%2F+.NET;Open+to+SDE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=7CFF4F&center=true&vCenter=true&width=1000&lines=Computer+Science+Engineering+Student;Building+Clean+Interfaces+and+Intelligent+Systems;Frontend+Development+%7C+UI%2FUX+Design;Exploring+AI-Powered+Applications+%26+Developer+Tools" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
