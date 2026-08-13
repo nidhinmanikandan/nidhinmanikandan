@@ -106,8 +106,8 @@ An AI-powered platform that generates structured learning roadmaps for modern te
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a0009?style=for-the-badge&logo=github&logoColor=7CFF4F)](https://github.com/nidhinmanikandan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0009?style=for-the-badge&logo=linkedin&logoColor=7CFF4F)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-%23001A0D?style=for-the-badge&logo=github&logoColor=7CFF4F&color=001A0D)](https://github.com/nidhinmanikandan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23001A0D?style=for-the-badge&logo=linkedin&logoColor=7CFF4F&color=001A0D)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 <br/><br/>
 
