@@ -105,8 +105,11 @@ An AI-powered platform that generates structured learning roadmaps for modern te
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinmanikandan&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinmanikandan&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhinmanikandan&theme=radical&hide_border=true" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinmanikandan&theme=redical&hide_border=true&area=true" width="100%" />
 </div>
 ## `$ contact --resolve`
 
