@@ -4,8 +4,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a0009?style=for-the-badge&logo=github&logoColor=FF2545)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0009?style=for-the-badge&logo=linkedin&logoColor=FF2545)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0009?style=for-the-badge&logo=github&logoColor=7CFF4F)](https://github.com/nidhinmanikandan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0009?style=for-the-badge&logo=linkedin&logoColor=7CFF4F)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
 
@@ -42,23 +42,23 @@ stack/
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0009?style=for-the-badge&logo=javascript&logoColor=FF2545)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0009?style=for-the-badge&logo=typescript&logoColor=FF2545)
-![Python](https://img.shields.io/badge/Python-1a0009?style=for-the-badge&logo=python&logoColor=FF2545)
-![Java](https://img.shields.io/badge/Java-1a0009?style=for-the-badge&logo=openjdk&logoColor=FF2545)
-![C](https://img.shields.io/badge/C-1a0009?style=for-the-badge&logo=c&logoColor=FF2545)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0009?style=for-the-badge&logo=javascript&logoColor=7CFF4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0009?style=for-the-badge&logo=typescript&logoColor=7CFF4F)
+![Python](https://img.shields.io/badge/Python-1a0009?style=for-the-badge&logo=python&logoColor=7CFF4F)
+![Java](https://img.shields.io/badge/Java-1a0009?style=for-the-badge&logo=openjdk&logoColor=7CFF4F)
+![C](https://img.shields.io/badge/C-1a0009?style=for-the-badge&logo=c&logoColor=7CFF4F)
 
-![React](https://img.shields.io/badge/React-1a0009?style=for-the-badge&logo=react&logoColor=FF2545)
-![Next.js](https://img.shields.io/badge/Next.js-1a0009?style=for-the-badge&logo=nextdotjs&logoColor=FF2545)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a0009?style=for-the-badge&logo=tailwindcss&logoColor=FF2545)
+![React](https://img.shields.io/badge/React-1a0009?style=for-the-badge&logo=react&logoColor=7CFF4F)
+![Next.js](https://img.shields.io/badge/Next.js-1a0009?style=for-the-badge&logo=nextdotjs&logoColor=7CFF4F)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a0009?style=for-the-badge&logo=tailwindcss&logoColor=7CFF4F)
 
-![Node.js](https://img.shields.io/badge/Node.js-1a0009?style=for-the-badge&logo=nodedotjs&logoColor=FF2545)
-![Express](https://img.shields.io/badge/Express-1a0009?style=for-the-badge&logo=express&logoColor=FF2545)
-![MySQL](https://img.shields.io/badge/MySQL-1a0009?style=for-the-badge&logo=mysql&logoColor=FF2545)
+![Node.js](https://img.shields.io/badge/Node.js-1a0009?style=for-the-badge&logo=nodedotjs&logoColor=7CFF4F)
+![Express](https://img.shields.io/badge/Express-1a0009?style=for-the-badge&logo=express&logoColor=7CFF4F)
+![MySQL](https://img.shields.io/badge/MySQL-1a0009?style=for-the-badge&logo=mysql&logoColor=7CFF4F)
 
-![Figma](https://img.shields.io/badge/Figma-1a0009?style=for-the-badge&logo=figma&logoColor=FF2545)
-![Git](https://img.shields.io/badge/Git-1a0009?style=for-the-badge&logo=git&logoColor=FF2545)
-![Postman](https://img.shields.io/badge/Postman-1a0009?style=for-the-badge&logo=postman&logoColor=FF2545)
+![Figma](https://img.shields.io/badge/Figma-1a0009?style=for-the-badge&logo=figma&logoColor=7CFF4F)
+![Git](https://img.shields.io/badge/Git-1a0009?style=for-the-badge&logo=git&logoColor=7CFF4F)
+![Postman](https://img.shields.io/badge/Postman-1a0009?style=for-the-badge&logo=postman&logoColor=7CFF4F)
 
 </div>
 
@@ -106,8 +106,8 @@ An AI-powered platform that generates structured learning roadmaps for modern te
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a0009?style=for-the-badge&logo=github&logoColor=FF2545)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0009?style=for-the-badge&logo=linkedin&logoColor=FF2545)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0009?style=for-the-badge&logo=github&logoColor=7CFF4F)](https://github.com/nidhinmanikandan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0009?style=for-the-badge&logo=linkedin&logoColor=7CFF4F)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 <br/><br/>
 
