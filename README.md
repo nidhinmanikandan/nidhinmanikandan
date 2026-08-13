@@ -42,23 +42,23 @@ stack/
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-001A0D?style=for-the-badge&logo=javascript&logoColor=7CFF4F)
-![TypeScript](https://img.shields.io/badge/TypeScript-001A0D?style=for-the-badge&logo=typescript&logoColor=7CFF4F)
-![Python](https://img.shields.io/badge/Python-001A0D?style=for-the-badge&logo=python&logoColor=7CFF4F)
-![Java](https://img.shields.io/badge/Java-001A0D?style=for-the-badge&logo=openjdk&logoColor=7CFF4F)
-![C](https://img.shields.io/badge/C-001A0D?style=for-the-badge&logo=c&logoColor=7CFF4F)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23001A0D?style=for-the-badge&logo=javascript&logoColor=7CFF4F&color=001A0D)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23001A0D?style=for-the-badge&logo=typescript&logoColor=7CFF4F&color=001A0D)
+![Python](https://img.shields.io/badge/Python-%23001A0D?style=for-the-badge&logo=python&logoColor=7CFF4F&color=001A0D)
+![Java](https://img.shields.io/badge/Java-%23001A0D?style=for-the-badge&logo=openjdk&logoColor=7CFF4F&color=001A0D)
+![C](https://img.shields.io/badge/C-%23001A0D?style=for-the-badge&logo=c&logoColor=7CFF4F&color=001A0D)
 
-![React](https://img.shields.io/badge/React-001A0D?style=for-the-badge&logo=react&logoColor=7CFF4F)
-![Next.js](https://img.shields.io/badge/Next.js-001A0D?style=for-the-badge&logo=nextdotjs&logoColor=7CFF4F)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-001A0D?style=for-the-badge&logo=tailwindcss&logoColor=7CFF4F)
+![React](https://img.shields.io/badge/React-%23001A0D?style=for-the-badge&logo=react&logoColor=7CFF4F&color=001A0D)
+![Next.js](https://img.shields.io/badge/Next.js-%23001A0D?style=for-the-badge&logo=nextdotjs&logoColor=7CFF4F&color=001A0D)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%23001A0D?style=for-the-badge&logo=tailwindcss&logoColor=7CFF4F&color=001A0D)
 
-![Node.js](https://img.shields.io/badge/Node.js-001A0D?style=for-the-badge&logo=nodedotjs&logoColor=7CFF4F)
-![Express](https://img.shields.io/badge/Express-001A0D?style=for-the-badge&logo=express&logoColor=7CFF4F)
-![MySQL](https://img.shields.io/badge/MySQL-001A0D?style=for-the-badge&logo=mysql&logoColor=7CFF4F)
+![Node.js](https://img.shields.io/badge/Node.js-%23001A0D?style=for-the-badge&logo=nodedotjs&logoColor=7CFF4F&color=001A0D)
+![Express](https://img.shields.io/badge/Express-%23001A0D?style=for-the-badge&logo=express&logoColor=7CFF4F&color=001A0D)
+![MySQL](https://img.shields.io/badge/MySQL-%23001A0D?style=for-the-badge&logo=mysql&logoColor=7CFF4F&color=001A0D)
 
-![Figma](https://img.shields.io/badge/Figma-001A0D?style=for-the-badge&logo=figma&logoColor=7CFF4F)
-![Git](https://img.shields.io/badge/Git-001A0D?style=for-the-badge&logo=git&logoColor=7CFF4F)
-![Postman](https://img.shields.io/badge/Postman-001A0D?style=for-the-badge&logo=postman&logoColor=7CFF4F)
+![Figma](https://img.shields.io/badge/Figma-%23001A0D?style=for-the-badge&logo=figma&logoColor=7CFF4F&color=001A0D)
+![Git](https://img.shields.io/badge/Git-%23001A0D?style=for-the-badge&logo=git&logoColor=7CFF4F&color=001A0D)
+![Postman](https://img.shields.io/badge/Postman-%23001A0D?style=for-the-badge&logo=postman&logoColor=7CFF4F&color=001A0D)
 
 </div>
 
