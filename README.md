@@ -42,23 +42,23 @@ stack/
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0009?style=for-the-badge&logo=javascript&logoColor=7CFF4F)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0009?style=for-the-badge&logo=typescript&logoColor=7CFF4F)
-![Python](https://img.shields.io/badge/Python-1a0009?style=for-the-badge&logo=python&logoColor=7CFF4F)
-![Java](https://img.shields.io/badge/Java-1a0009?style=for-the-badge&logo=openjdk&logoColor=7CFF4F)
-![C](https://img.shields.io/badge/C-1a0009?style=for-the-badge&logo=c&logoColor=7CFF4F)
+![JavaScript](https://img.shields.io/badge/JavaScript-001A0D?style=for-the-badge&logo=javascript&logoColor=7CFF4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-001A0D?style=for-the-badge&logo=typescript&logoColor=7CFF4F)
+![Python](https://img.shields.io/badge/Python-001A0D?style=for-the-badge&logo=python&logoColor=7CFF4F)
+![Java](https://img.shields.io/badge/Java-001A0D?style=for-the-badge&logo=openjdk&logoColor=7CFF4F)
+![C](https://img.shields.io/badge/C-001A0D?style=for-the-badge&logo=c&logoColor=7CFF4F)
 
-![React](https://img.shields.io/badge/React-1a0009?style=for-the-badge&logo=react&logoColor=7CFF4F)
-![Next.js](https://img.shields.io/badge/Next.js-1a0009?style=for-the-badge&logo=nextdotjs&logoColor=7CFF4F)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a0009?style=for-the-badge&logo=tailwindcss&logoColor=7CFF4F)
+![React](https://img.shields.io/badge/React-001A0D?style=for-the-badge&logo=react&logoColor=7CFF4F)
+![Next.js](https://img.shields.io/badge/Next.js-001A0D?style=for-the-badge&logo=nextdotjs&logoColor=7CFF4F)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-001A0D?style=for-the-badge&logo=tailwindcss&logoColor=7CFF4F)
 
-![Node.js](https://img.shields.io/badge/Node.js-1a0009?style=for-the-badge&logo=nodedotjs&logoColor=7CFF4F)
-![Express](https://img.shields.io/badge/Express-1a0009?style=for-the-badge&logo=express&logoColor=7CFF4F)
-![MySQL](https://img.shields.io/badge/MySQL-1a0009?style=for-the-badge&logo=mysql&logoColor=7CFF4F)
+![Node.js](https://img.shields.io/badge/Node.js-001A0D?style=for-the-badge&logo=nodedotjs&logoColor=7CFF4F)
+![Express](https://img.shields.io/badge/Express-001A0D?style=for-the-badge&logo=express&logoColor=7CFF4F)
+![MySQL](https://img.shields.io/badge/MySQL-001A0D?style=for-the-badge&logo=mysql&logoColor=7CFF4F)
 
-![Figma](https://img.shields.io/badge/Figma-1a0009?style=for-the-badge&logo=figma&logoColor=7CFF4F)
-![Git](https://img.shields.io/badge/Git-1a0009?style=for-the-badge&logo=git&logoColor=7CFF4F)
-![Postman](https://img.shields.io/badge/Postman-1a0009?style=for-the-badge&logo=postman&logoColor=7CFF4F)
+![Figma](https://img.shields.io/badge/Figma-001A0D?style=for-the-badge&logo=figma&logoColor=7CFF4F)
+![Git](https://img.shields.io/badge/Git-001A0D?style=for-the-badge&logo=git&logoColor=7CFF4F)
+![Postman](https://img.shields.io/badge/Postman-001A0D?style=for-the-badge&logo=postman&logoColor=7CFF4F)
 
 </div>
 
