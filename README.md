@@ -4,7 +4,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a0009?style=for-the-badge&logo=github&logoColor=FF2545)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0009?style=for-the-badge&logo=github&logoColor=FF2545)](https://github.com/nidhinmanikandan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0009?style=for-the-badge&logo=linkedin&logoColor=FF2545)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
