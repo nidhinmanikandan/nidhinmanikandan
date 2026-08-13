@@ -108,7 +108,7 @@ An AI-powered platform that generates structured learning roadmaps for modern te
   <br/><br/>
 
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinmanikandan&bg_color=0D1117&color=adffd1&line=adffd1&point=36f28b&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nidhinmanikandan&bg_color=00331a&color=adffd1&line=adffd1&point=36f28b&area=true&hide_border=true" 
     width="100%" 
   />
 </div>
