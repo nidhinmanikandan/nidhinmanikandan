@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Navaneeth%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6A11CB&center=true&vCenter=true&width=600&lines=Final+Year+CS+Student+%40+Model+Engineering+College;Building+with+AI;Full+Stack+Developer+%7C+React+%2F+Node+%2F+.NET;Open+to+SDE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 
 <br/>
 
