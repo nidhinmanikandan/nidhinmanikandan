@@ -9,41 +9,44 @@
 
 </div>
 
-## `$ whoami`
+<h2 align="left">
+  <code>$ whoami</code>
+</h2>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+<pre>
+┌── <b>nidhin@github</b> ── <span style="color:#00ff66">~/profile</span>
+└─$ <span style="color:#00ff66">cat about.txt</span>
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> 💻 I'm a Computer Science Engineering student who builds products at the intersection of clean interfaces and intelligent systems. I like taking a complicated idea and cutting it down until it's simple enough to actually use — then making that simple version feel good to look at.
+>
+> 🎨 Most of what I build lives somewhere between frontend engineering and UI/UX design, with a growing pull toward AI-powered tools that make learning and building easier for other people.
+
+<br>
+
+<table>
+<tr>
+<td>
 
 ```text
-┌──(nidhin㉿github)-[~/profile]
-└─$ cat about.txt
-
-I'm a Computer Science Engineering student who builds products at the
-intersection of clean interfaces and intelligent systems. I like taking a
-complicated idea and cutting it down until it's simple enough to actually
-use — then making that simple version feel good to look at.
-
-Most of what I build lives somewhere between frontend engineering and
-UI/UX design, with a growing pull toward AI-powered tools that make
-learning and building easier for other people.
-
-
 [OK]        Computer Science Engineering student
 [OK]        Frontend development & UI engineering
 [OK]        UI/UX design — clean, modern interfaces
 [RUNNING]   Exploring AI-powered applications & dev tools
 [BUILDING]  AI Growth — an AI-powered learning roadmap platform
 [ALWAYS_ON] Learning new tools, sharpening the old ones
-<br/>
-
-## `$ ls stack/`
-
-```text
-stack/
-├── languages/    JavaScript · TypeScript · Python · Java · C
-├── frontend/     React · Next.js · HTML5 · CSS3 · Tailwind CSS · React Flow · GSAP
-├── backend/      Node.js · Express.js · REST APIs
-├── design/       Figma · UI/UX Design · Design Systems · Prototyping
-├── database/     MySQL
-└── tools/        Git · GitHub · VS Code · Postman
-```
 
 <div align="center">
 
