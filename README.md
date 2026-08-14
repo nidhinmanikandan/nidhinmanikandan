@@ -43,43 +43,8 @@
 
 <br/>
 
-## `$ ./skills.sys --status`
 
-<div align="center">
-<img src="assets/status.svg" width="100%" alt="Skill diagnostic panel"/>
-<br/>
-<sub>self-reported diagnostics · margin of error: however much coffee was involved</sub>
-</div>
 
-<br/>
-
-## `$ ./featured-project.sh --run`
-
-### 📌 AI Growth
-
-An AI-powered platform that generates structured learning roadmaps for modern technologies. Instead of dropping a wall of AI-generated text on the user, it turns that response into an interactive visual roadmap they can actually navigate, track, and act on.
-
-```text
-[✓] Interactive roadmap visualization
-[✓] AI-generated learning paths
-[✓] Progress tracking
-[✓] Skill gap analysis
-[✓] Resource management
-```
-
-<br/>
-
-## `$ tail -f currently-learning.log`
-
-```text
-> advanced react & next.js
-> ai integration
-> system design
-> ui engineering
-> full stack development
-```
-
-<br/>
 
 <div align="center">
   <img 
