@@ -3,34 +3,11 @@
   <title id="whoamiTitle">whoami — terminal profile</title>
 
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f0d"/>
-      <stop offset="55%" stop-color="#07090a"/>
-      <stop offset="100%" stop-color="#050605"/>
-    </linearGradient>
-
-    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="4" fill="transparent"/>
-      <line x1="0" y1="3.5" x2="4" y2="3.5" stroke="#00FF66" stroke-width="0.5" opacity="0.05"/>
-    </pattern>
-
-    <clipPath id="panelClip">
-      <rect x="6" y="6" width="748" height="528" rx="12"/>
-    </clipPath>
-
     <filter id="neonGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <filter id="borderGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="blur"/>
       </feMerge>
     </filter>
 
@@ -48,16 +25,6 @@
     </style>
   </defs>
 
-  <!-- background panel -->
-  <g clip-path="url(#panelClip)">
-    <rect x="6" y="6" width="748" height="528" fill="url(#bgGrad)"/>
-    <rect x="6" y="6" width="748" height="528" fill="url(#scanlines)"/>
-  </g>
-
-  <!-- outer glow + crisp border -->
-  <rect x="6" y="6" width="748" height="528" rx="12" fill="none" stroke="#00FF66" stroke-width="2" opacity="0.45" filter="url(#borderGlow)" class="pulseSlow"/>
-  <rect x="6" y="6" width="748" height="528" rx="12" fill="none" stroke="#00FF66" stroke-width="1.2" opacity="0.85"/>
-
   <!-- corner reticle marks -->
   <g stroke="#00FF66" stroke-width="1.6" stroke-linecap="round" opacity="0.9">
     <path d="M0,18 L0,0 L18,0" fill="none"/>
@@ -73,8 +40,8 @@
 
   <text x="380" y="31" text-anchor="middle" font-size="11" letter-spacing="2" fill="#8a908c">whoami.sh</text>
 
-  <circle cx="706" cy="27" r="3.5" fill="#00FF66" filter="url(#neonGlow)" class="pulse"/>
-  <text x="716" y="31" font-size="9.5" letter-spacing="1" fill="#7fdba0">SYSTEM ONLINE</text>
+  <circle cx="634" cy="27" r="3.5" fill="#00FF66" filter="url(#neonGlow)" class="pulse"/>
+  <text x="646" y="31" font-size="9.5" letter-spacing="1" fill="#7fdba0">SYSTEM ONLINE</text>
 
   <line x1="16" y1="48" x2="744" y2="48" stroke="#00FF66" stroke-width="1" opacity="0.25"/>
 
