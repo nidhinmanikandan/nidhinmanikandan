@@ -49,21 +49,7 @@
   <text x="34" y="88" font-size="14.5" fill="#00FF66" filter="url(#neonGlow)">┌── nidhin@github ── ~/profile</text>
   <text x="34" y="110" font-size="14.5" fill="#00FF66" filter="url(#neonGlow)">└─$ cat about.txt</text>
 
-  <!-- paragraph 1 -->
-  <g font-size="14" fill="#c7cccb">
-    <text x="34" y="146">I'm a Computer Science Engineering student who builds products</text>
-    <text x="34" y="168">at the intersection of clean interfaces and intelligent systems.</text>
-    <text x="34" y="190">I like taking a complicated idea and cutting it down until it's</text>
-    <text x="34" y="212">simple enough to actually use — then making that simple version</text>
-    <text x="34" y="234">feel good to look at.</text>
-  </g>
-
-  <!-- paragraph 2 -->
-  <g font-size="14" fill="#c7cccb">
-    <text x="34" y="270">Most of what I build lives somewhere between frontend engineering</text>
-    <text x="34" y="292">and UI/UX design, with a growing pull toward AI-powered tools that</text>
-    <text x="34" y="314">make learning and building easier for other people.</text>
-  </g>
+ 
 
   <!-- status list -->
   <g font-size="14">
