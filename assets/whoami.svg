@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 760 540" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-labelledby="whoamiTitle">
+<svg viewBox="0 0 760 336" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-labelledby="whoamiTitle">
   <title id="whoamiTitle">whoami — terminal profile</title>
-
   <defs>
     <filter id="neonGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
@@ -10,7 +9,6 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
     <style>
       .blink { animation: blink 1.1s steps(1, end) infinite; }
       .pulse { animation: pulse 2.2s ease-in-out infinite; }
@@ -24,55 +22,41 @@
       text { dominant-baseline: alphabetic; }
     </style>
   </defs>
-
   <!-- corner reticle marks -->
   <g stroke="#00FF66" stroke-width="1.6" stroke-linecap="round" opacity="0.9">
     <path d="M0,18 L0,0 L18,0" fill="none"/>
     <path d="M742,0 L760,0 L760,18" fill="none"/>
-    <path d="M760,522 L760,540 L742,540" fill="none"/>
-    <path d="M18,540 L0,540 L0,522" fill="none"/>
+    <path d="M760,318 L760,336 L742,336" fill="none"/>
+    <path d="M18,336 L0,336 L0,318" fill="none"/>
   </g>
-
   <!-- title bar -->
   <circle cx="28" cy="27" r="4" fill="none" stroke="#4a4f4c" stroke-width="1"/>
   <circle cx="46" cy="27" r="4" fill="none" stroke="#4a4f4c" stroke-width="1"/>
   <circle cx="64" cy="27" r="4" fill="#00FF66" opacity="0.85" filter="url(#neonGlow)"/>
-
   <text x="380" y="31" text-anchor="middle" font-size="11" letter-spacing="2" fill="#8a908c">whoami.sh</text>
-
   <circle cx="634" cy="27" r="3.5" fill="#00FF66" filter="url(#neonGlow)" class="pulse"/>
   <text x="646" y="31" font-size="9.5" letter-spacing="1" fill="#7fdba0">SYSTEM ONLINE</text>
-
   <line x1="16" y1="48" x2="744" y2="48" stroke="#00FF66" stroke-width="1" opacity="0.25"/>
-
   <!-- prompt -->
   <text x="34" y="88" font-size="14.5" fill="#00FF66" filter="url(#neonGlow)">┌── nidhin@github ── ~/profile</text>
   <text x="34" y="110" font-size="14.5" fill="#00FF66" filter="url(#neonGlow)">└─$ cat about.txt</text>
 
- 
-
   <!-- status list -->
   <g font-size="14">
-    <text x="34" y="350" fill="#00FF66" filter="url(#neonGlow)">[OK]</text>
-    <text x="140" y="350" fill="#c7cccb">Computer Science Engineering student</text>
-
-    <text x="34" y="372" fill="#00FF66" filter="url(#neonGlow)">[OK]</text>
-    <text x="140" y="372" fill="#c7cccb">Frontend development &amp; UI engineering</text>
-
-    <text x="34" y="394" fill="#00FF66" filter="url(#neonGlow)">[OK]</text>
-    <text x="140" y="394" fill="#c7cccb">UI/UX design — clean, modern interfaces</text>
-
-    <text x="34" y="416" fill="#00FF66" filter="url(#neonGlow)" class="pulse">[RUNNING]</text>
-    <text x="140" y="416" fill="#c7cccb">Exploring AI-powered applications &amp; dev tools</text>
-
-    <text x="34" y="438" fill="#00FF66" filter="url(#neonGlow)" class="pulse">[BUILDING]</text>
-    <text x="140" y="438" fill="#c7cccb">AI Growth — an AI-powered learning roadmap platform</text>
-
-    <text x="34" y="460" fill="#00FF66" filter="url(#neonGlow)" class="pulseSlow">[ALWAYS_ON]</text>
-    <text x="140" y="460" fill="#c7cccb">Learning new tools, sharpening the old ones</text>
+    <text x="34" y="146" fill="#00FF66" filter="url(#neonGlow)">[OK]</text>
+    <text x="140" y="146" fill="#c7cccb">Computer Science Engineering student</text>
+    <text x="34" y="168" fill="#00FF66" filter="url(#neonGlow)">[OK]</text>
+    <text x="140" y="168" fill="#c7cccb">Frontend development &amp; UI engineering</text>
+    <text x="34" y="190" fill="#00FF66" filter="url(#neonGlow)">[OK]</text>
+    <text x="140" y="190" fill="#c7cccb">UI/UX design — clean, modern interfaces</text>
+    <text x="34" y="212" fill="#00FF66" filter="url(#neonGlow)" class="pulse">[RUNNING]</text>
+    <text x="140" y="212" fill="#c7cccb">Exploring AI-powered applications &amp; dev tools</text>
+    <text x="34" y="234" fill="#00FF66" filter="url(#neonGlow)" class="pulse">[BUILDING]</text>
+    <text x="140" y="234" fill="#c7cccb">AI Growth — an AI-powered learning roadmap platform</text>
+    <text x="34" y="256" fill="#00FF66" filter="url(#neonGlow)" class="pulseSlow">[ALWAYS_ON]</text>
+    <text x="140" y="256" fill="#c7cccb">Learning new tools, sharpening the old ones</text>
   </g>
-
   <!-- closing prompt with blinking cursor -->
-  <text x="34" y="496" font-size="14.5" fill="#00FF66" filter="url(#neonGlow)">└─$</text>
-  <rect x="60" y="483" width="8" height="15" fill="#00FF66" filter="url(#neonGlow)" class="blink"/>
+  <text x="34" y="292" font-size="14.5" fill="#00FF66" filter="url(#neonGlow)">└─$</text>
+  <rect x="60" y="279" width="8" height="15" fill="#00FF66" filter="url(#neonGlow)" class="blink"/>
 </svg>
