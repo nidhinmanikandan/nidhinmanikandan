@@ -20,8 +20,8 @@
 <td>
 
 <pre>
-┌── <b>nidhin@github</b> ── <span style="color:#00ff66">~/profile</span>
-└─$ <span style="color:#00ff66">cat about.txt</span>
+┌── <span style="color:#00ff66"><b>nidhin@github</b></span> ── ~/profile
+└─$ cat about.txt
 </pre>
 
 </td>
