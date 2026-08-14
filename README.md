@@ -47,6 +47,7 @@
 [RUNNING]   Exploring AI-powered applications & dev tools
 [BUILDING]  AI Growth — an AI-powered learning roadmap platform
 [ALWAYS_ON] Learning new tools, sharpening the old ones
+```
 
 <div align="center">
 
