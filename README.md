@@ -15,39 +15,6 @@
 
 <br>
 
-<table>
-<tr>
-<td>
-
-<pre>
-┌── <span style="color:#00ff66"><b>nidhin@github</b></span> ── ~/profile
-└─$ cat about.txt
-</pre>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-> 💻 I'm a Computer Science Engineering student who builds products at the intersection of clean interfaces and intelligent systems. I like taking a complicated idea and cutting it down until it's simple enough to actually use — then making that simple version feel good to look at.
->
-> 🎨 Most of what I build lives somewhere between frontend engineering and UI/UX design, with a growing pull toward AI-powered tools that make learning and building easier for other people.
-
-<br>
-
-<table>
-<tr>
-<td>
-
-```text
-[OK]        Computer Science Engineering student
-[OK]        Frontend development & UI engineering
-[OK]        UI/UX design — clean, modern interfaces
-[RUNNING]   Exploring AI-powered applications & dev tools
-[BUILDING]  AI Growth — an AI-powered learning roadmap platform
-[ALWAYS_ON] Learning new tools, sharpening the old ones
-```
 <p align="center">
   <img src="./assets/whoami.svg" width="100%" alt="Who Am I" />
 </p>
