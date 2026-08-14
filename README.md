@@ -48,6 +48,9 @@
 [BUILDING]  AI Growth — an AI-powered learning roadmap platform
 [ALWAYS_ON] Learning new tools, sharpening the old ones
 ```
+<p align="center">
+  <img src="./assets/whoami.svg" width="100%" alt="Who Am I" />
+</p>
 
 <div align="center">
 
